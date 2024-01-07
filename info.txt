@@ -1,0 +1,86 @@
+Creado Domingo 7 de enero de 2024
+
+React - La Guía Completa: Hooks Context Redux MERN +15 Apps
+Juan Pablo De la torre Valdez
+
+
+Control de presupuesto en React: Comenzando el Proyecto
+
+
+04:48
+Creando el Componente de Nuevo Presupuesto
+04:03
+Creando el Formulario de Presupuesto
+03:19
+Validando el Presupuesto
+06:47
+Mostrando el Componente de Gastos si el presupuesto es válido
+06:30
+Primeros Pasos con el Componente de Control de Presupuesto
+02:45
+Formatear Números a Dinero
+02:56
+Añadir un botón para registrar un nuevo gasto
+03:44
+Primeros pasos para crear un Modal
+02:19
+Mostrando y Ocultando el Modal
+04:13
+Creando una Animación en el Modal
+08:58
+Añadiendo el Formulario de Gastos
+04:19
+Creando el State para los gastos
+04:14
+Validando los Gastos
+07:12
+Creando una función para generar un ID único y Añadiendo Gastos al State
+04:50
+Creando el Componente para Crear un Gasto
+04:20
+Mostrando los Gastos
+03:29
+Formateando las Fechas
+07:38
+Mostrando el Icono de Gastos
+05:58
+Calculando el Presupuesto Gastado
+06:48
+Calculando el Presupuesto Disponible
+01:18
+Añadiendo un Efecto de Swipe
+05:50
+Finalizando el Efecto de Swipe
+03:09
+Detectando el Gasto a Editar al dar Swipe
+04:50
+Colocando el Gasto a Editar en el State y en el Formulario
+06:05
+Editando los Gastos
+06:57
+Eliminar Gastos con Swipe
+04:40
+Resetear el State al finalizar un gasto editado
+02:19
+Agregando una Gráfica Circular para el control del presupuesto
+02:32
+Calcular el Porcentaje gastado para la gráfica Circular
+04:42
+Personalizar la gráfica Circular con Estilos
+01:52
+Mostrando Textos en Gráfica Circular
+01:55
+Colocar el Presupuesto en LocalStorage
+05:41
+Colocar los Gastos en Local Storage
+04:27
+Creando un Filtro de Categorías de Gastos
+04:48
+Colocando Gastos Filtrados en el State
+03:07
+Mostrando Gastos Filtrados
+04:25
+Cambiando la apariencia de Presupuesto Disponible si ya fue agotado
+03:23
+Añadiendo un botón para reiniciar la app
+05:59
