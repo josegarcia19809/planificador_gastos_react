@@ -4,11 +4,11 @@ React - La Guía Completa: Hooks Context Redux MERN +15 Apps
 Juan Pablo De la torre Valdez
 
 
-Control de presupuesto en React: Comenzando el Proyecto
+Control de presupuesto en React: Creando el Componente de Nuevo Presupuesto
 
 
 04:48
-Creando el Componente de Nuevo Presupuesto
+
 04:03
 Creando el Formulario de Presupuesto
 03:19
