@@ -9,14 +9,8 @@ npm init vite@latest
 Modificado martes 9 de enero de 2024
 
 
-Control de presupuesto en React:Primeros Pasos con el Componente de Control de Presupuesto
+Control de presupuesto en React: Formatear Números a Dinero
 
-
-06:30
-
-02:45
-Formatear Números a Dinero
-02:56
 Añadir un botón para registrar un nuevo gasto
 03:44
 Primeros pasos para crear un Modal
