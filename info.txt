@@ -9,11 +9,11 @@ npm init vite@latest
 Modificado martes 9 de enero de 2024
 
 
-Control de presupuesto en React: Mostrando el Componente de Gastos si el presupuesto es válido
+Control de presupuesto en React:Primeros Pasos con el Componente de Control de Presupuesto
 
 
 06:30
-Primeros Pasos con el Componente de Control de Presupuesto
+
 02:45
 Formatear Números a Dinero
 02:56
