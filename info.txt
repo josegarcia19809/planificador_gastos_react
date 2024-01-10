@@ -9,12 +9,8 @@ npm init vite@latest
 Modificado martes 9 de enero de 2024
 
 
-Control de presupuesto en React: Creando el Formulario de Presupuesto
+Control de presupuesto en React: Validando el Presupuesto
 
-
-03:19
-Validando el Presupuesto
-06:47
 Mostrando el Componente de Gastos si el presupuesto es válido
 06:30
 Primeros Pasos con el Componente de Control de Presupuesto
