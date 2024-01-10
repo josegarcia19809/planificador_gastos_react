@@ -3,14 +3,15 @@ Creado Domingo 7 de enero de 2024
 React - La Guía Completa: Hooks Context Redux MERN +15 Apps
 Juan Pablo De la torre Valdez
 
+Comando para inicializar el proyecto
+npm init vite@latest
 
-Control de presupuesto en React: Creando el Componente de Nuevo Presupuesto
+Modificado martes 9 de enero de 2024
 
 
-04:48
+Control de presupuesto en React: Creando el Formulario de Presupuesto
 
-04:03
-Creando el Formulario de Presupuesto
+
 03:19
 Validando el Presupuesto
 06:47
