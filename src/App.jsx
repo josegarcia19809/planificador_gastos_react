@@ -1,13 +1,14 @@
 import {useState} from "react";
 import Header from "./components/Header.jsx";
 import IconoNuevoGasto from "./img/nuevo-gasto.svg";
+import Modal from "./components/Modal.jsx";
 
 function App() {
     const [presupuesto, setPresupuesto] = useState(0);
     const [isValidPresupuesto, setIsValidPresupuesto] = useState(false);
     const [modal, setModal] = useState(false);
 
-    const handleNuevoGasto=()=>{
+    const handleNuevoGasto = () => {
         setModal(true);
     }
 
@@ -29,6 +30,9 @@ function App() {
                     />
                 </div>
             )}
+            {modal &&
+                <Modal setModal={setModal}/>
+            }
 
         </>
     )

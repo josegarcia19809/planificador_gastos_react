@@ -10,12 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Primeros pasos para crear un Modal
+Control de presupuesto en React: Mostrando y Ocultando el Modal
 
 
-02:19
-Mostrando y Ocultando el Modal
-04:13
 Creando una Animación en el Modal
 08:58
 Añadiendo el Formulario de Gastos
