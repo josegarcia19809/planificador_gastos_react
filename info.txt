@@ -7,12 +7,11 @@ Comando para inicializar el proyecto
 npm init vite@latest
 
 Modificado martes 9 de enero de 2024
+Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Formatear Números a Dinero
+Control de presupuesto en React: Añadir un botón para registrar un nuevo gasto
 
-Añadir un botón para registrar un nuevo gasto
-03:44
 Primeros pasos para crear un Modal
 02:19
 Mostrando y Ocultando el Modal
