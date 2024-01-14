@@ -10,9 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Añadir un botón para registrar un nuevo gasto
+Control de presupuesto en React: Primeros pasos para crear un Modal
 
-Primeros pasos para crear un Modal
+
 02:19
 Mostrando y Ocultando el Modal
 04:13
