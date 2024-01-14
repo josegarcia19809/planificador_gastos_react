@@ -10,11 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Mostrando y Ocultando el Modal
+Control de presupuesto en React: Creando una Animación en el Modal
 
 
-Creando una Animación en el Modal
-08:58
 Añadiendo el Formulario de Gastos
 04:19
 Creando el State para los gastos
