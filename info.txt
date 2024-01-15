@@ -10,17 +10,8 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Creando el State y Validando los Gastos
+Control de presupuesto en React: Creando una función para generar un ID único y Añadiendo Gastos al State
 
-
-
-04:19
- para los gastos
-04:14
-Validando los Gastos
-07:12
-Creando una función para generar un ID único y Añadiendo Gastos al State
-04:50
 Creando el Componente para Crear un Gasto
 04:20
 Mostrando los Gastos
