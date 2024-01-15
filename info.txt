@@ -10,11 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Creando el Componente para Crear un Gasto
+Control de presupuesto en React: Mostrando los Gastos
 
 
-Mostrando los Gastos
-03:29
 Formateando las Fechas
 07:38
 Mostrando el Icono de Gastos
