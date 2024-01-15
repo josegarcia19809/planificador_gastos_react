@@ -10,12 +10,12 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 
 
-Control de presupuesto en React: Añadiendo el Formulario de Gastos
+Control de presupuesto en React: Creando el State y Validando los Gastos
 
 
 
 04:19
-Creando el State para los gastos
+ para los gastos
 04:14
 Validando los Gastos
 07:12
