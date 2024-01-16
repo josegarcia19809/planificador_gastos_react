@@ -10,14 +10,10 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Editando los Gastos
+Control de presupuesto en React: Resetear el State al finalizar un gasto editado
 
 
 
-06:57
-Eliminar Gastos con Swipe
-04:40
-Resetear el State al finalizar un gasto editado
 02:19
 Agregando una Gráfica Circular para el control del presupuesto
 02:32
