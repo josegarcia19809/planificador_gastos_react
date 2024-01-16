@@ -10,10 +10,10 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Formateando las Fechas
+Control de presupuesto en React: Mostrando el Icono de Gastos
 
 
-Mostrando el Icono de Gastos
+
 05:58
 Calculando el Presupuesto Gastado
 06:48
