@@ -10,14 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Calculando el Presupuesto Gastado
+Control de presupuesto en React: Calculando el Presupuesto Disponible
 
 
-
-05:58
-
-06:48
-Calculando el Presupuesto Disponible
 01:18
 Añadiendo un Efecto de Swipe
 05:50
