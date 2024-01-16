@@ -10,11 +10,11 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Finalizando el Efecto de Swipe
+Control de presupuesto en React: Detectando el Gasto a Editar al dar Swipe
 
 
 03:09
-Detectando el Gasto a Editar al dar Swipe
+
 04:50
 Colocando el Gasto a Editar en el State y en el Formulario
 06:05
