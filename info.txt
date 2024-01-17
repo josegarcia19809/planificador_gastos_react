@@ -11,10 +11,10 @@ Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 Modificado miércoles 17 de enero de 2024
 
-Control de presupuesto en React: Colocando Gastos Filtrados en el State
+Control de presupuesto en React: Mostrando Gastos Filtrados
 
 
 
-Mostrando Gastos Filtrados
+
 Cambiando la apariencia de Presupuesto Disponible si ya fue agotado
 Añadiendo un botón para reiniciar la app
