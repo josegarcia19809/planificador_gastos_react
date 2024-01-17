@@ -9,14 +9,11 @@ npm init vite@latest
 Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
+Modificado miércoles 17 de enero de 2024
 
-Control de presupuesto en React: Colocar los Gastos en Local Storage
+Control de presupuesto en React: Creando un Filtro de Categorías de Gastos
 
 
-
-04:27
-Creando un Filtro de Categorías de Gastos
-04:48
 Colocando Gastos Filtrados en el State
 03:07
 Mostrando Gastos Filtrados
