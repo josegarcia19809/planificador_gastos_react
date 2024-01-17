@@ -10,14 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Calcular el Porcentaje gastado para la gráfica Circular
+Control de presupuesto en React: Personalizar la gráfica Circular con Estilos
 
 
-02:32
-
-04:42
-Personalizar la gráfica Circular con Estilos
-01:52
 Mostrando Textos en Gráfica Circular
 01:55
 Colocar el Presupuesto en LocalStorage
