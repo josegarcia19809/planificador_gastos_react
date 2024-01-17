@@ -11,14 +11,10 @@ Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 Modificado miércoles 17 de enero de 2024
 
-Control de presupuesto en React: Creando un Filtro de Categorías de Gastos
+Control de presupuesto en React: Colocando Gastos Filtrados en el State
 
 
-Colocando Gastos Filtrados en el State
-03:07
+
 Mostrando Gastos Filtrados
-04:25
 Cambiando la apariencia de Presupuesto Disponible si ya fue agotado
-03:23
 Añadiendo un botón para reiniciar la app
-05:59
