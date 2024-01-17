@@ -10,12 +10,9 @@ Modificado martes 9 de enero de 2024
 Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 
-Control de presupuesto en React: Resetear el State al finalizar un gasto editado
+Control de presupuesto en React: Agregando una Gráfica Circular para el control del presupuesto
 
 
-
-02:19
-Agregando una Gráfica Circular para el control del presupuesto
 02:32
 Calcular el Porcentaje gastado para la gráfica Circular
 04:42
