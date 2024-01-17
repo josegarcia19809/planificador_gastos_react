@@ -11,7 +11,9 @@ Modificado domingo 14 de enero de 2024
 Modificado martes 16 de enero de 2024
 Modificado miércoles 17 de enero de 2024
 
-Control de presupuesto en React: Añadiendo un botón para reiniciar la app
+Terminado: miércoles 17 de enero de 2024
+
+Control de presupuesto en React: Aplicación terminada
 
 
 
